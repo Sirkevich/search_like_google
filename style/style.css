@@ -125,6 +125,10 @@ body {
     font-size: 14px;
 }
 
+.btn-img {
+    margin-right: 0;
+}
+
 .btn:hover {
     border: 1px solid lightgrey;
 }
